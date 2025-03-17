@@ -1,3 +1,16 @@
 header{
-    background-color: rgb(221, 121, 0);
+    background-color: rgb(87, 51, 6);
+}
+
+nav li {
+       display: inline;
+       margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: rgb(13, 17, 244);
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
 }
